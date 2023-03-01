@@ -1,10 +1,8 @@
-<h1 align="left">Всем 👋, меня зовут Михаил!</h1>
+<h1 align="left">Всем привет👋, меня зовут Михаил!</h1>
 
-<p><img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32">
-  <p align="center">
-    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG" /></a>
-  </p>
-</p>
+<p align="center">
+    <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?    font=Fira+Code&size=25&pause=1000&color=1384F7&center=true&width=435&lines=%D0%AF+front-end+%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA" alt="Typing SVG"/></a>
+ </p>
 
 ### ***О себе:***
 * 👨‍💻 Стараюсь писать чистый, читабельный код
